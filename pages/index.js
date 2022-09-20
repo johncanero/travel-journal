@@ -11,6 +11,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <Head>
+      <title>Travel Journal</title>
+        <meta name="description" content="Travel Journal" />
+        <meta itemprop="name" content="Journal" />
+        <meta itemprop="description" content="Travel Journal created with Next JS and Tailwind CSS" />
+        <meta itemprop="image" content="Travel Props" />
+        <link rel="icon" href="/favicon.ico" />     
+      </Head>
       <main>
         
       </main>
