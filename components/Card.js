@@ -4,7 +4,7 @@ import CardProps from './CardProps'
 const Card = () => {
   return (
     <div>
-    
+        
     </div>
   )
 }
