@@ -13,10 +13,8 @@ module.exports = {
     },
     extend: {
       colors: {
-        pinkRauschAir: '#ff5a5f',
-        cyanAir: '#00A699',
-        orangeAir: '#FC642D',
-        darkGrayAir: '#484848',
+        brightViolet:'#7c02ff97',
+        cyanColor: '#0bebffea',
       }
     },
 
