@@ -5,8 +5,8 @@ import Link from "next/link";
 const CardProps = (props) => {
   return (
     <div>
-      <div className="flex justify-center font-Poppins md:mt-9 md:w-auto">
-        <div className="flex flex-col items-center bg-white rounded-lg md:flex-row md:max-w-2xl">
+      <div className="flex justify-center font-Poppins md:mt-5 md:w-auto">
+        <div className="flex flex-col items-center bg-white rounded-lg md:flex-row md:max-w-xl">
           <div className="object-cover w-full h-auto text-zero md:h-auto md:w-full">
             <Image
               width={300}
@@ -24,13 +24,12 @@ const CardProps = (props) => {
                 {props.country}
               </p>
 
-              <Link href="https://www.google.com/maps" passHref>
-                <a target="_blank" rel="noopener noreferrer">
+               <a target="_blank" rel="noopener noreferrer">
                   <p className=" text-gray-400 md:px-3 underline hover:underline">
                     View on Google Maps
                   </p>
                 </a>
-              </Link>
+           
             </div>
 
             <h5 className="text-4xl font-bold text-gray-900 md:mt-2">
