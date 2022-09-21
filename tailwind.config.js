@@ -15,16 +15,16 @@ module.exports = {
       colors: {
         brightViolet:'#7c02ff97',
         cyanColor: '#0bebffea',
+      },
+   
+      fontSize: {
+        'zero': '0em',
       }
     },
 
     fontFamily: {
       Poppins: ['Poppins', 'sans-serif'],
     },
-
-    fontSize: {
-      'zero': '0em',
-    }
   },
   plugins: [],
 }

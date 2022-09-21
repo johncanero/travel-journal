@@ -2,3 +2,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.someCSSModulesClass :global .any-global-class {
+    font-size: 0em;
+}

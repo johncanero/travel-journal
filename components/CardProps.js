@@ -12,7 +12,7 @@ const CardProps = () => {
             <Image
               src={HongkongPortrait}
               alt="hongkongPortrait.jpg"
-              className="rounded-2xl block"
+              className="rounded-2xl"
             />
           </div>
 
