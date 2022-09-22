@@ -17,7 +17,7 @@ const Input = () => {
                     />
                     <button
                         type="submit"
-                        className="text-brightViolet font-semibold absolute right-9 bottom-2.5 md:right-24 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-2xl text-sm px-4 py-2"
+                        className="text-brightViolet font-semibold absolute right-9 bottom-2.5 md:right-24 lg:right-656 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-2xl text-sm px-4 py-2"
                     >
                         <FontAwesomeIcon icon={faMagnifyingGlass} className='w-5'></FontAwesomeIcon>
                     </button>

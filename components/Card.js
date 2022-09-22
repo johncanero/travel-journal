@@ -4,7 +4,7 @@ import HongkongPortrait from "../public/images/hongkongPortrait.jpg";
 
 const Card = () => {
   return (
-    <div>
+    <div className='lg:flex lg:flex-wrap lg:justify-center'>
         <div>
             <CardProps 
                 img={HongkongPortrait}
