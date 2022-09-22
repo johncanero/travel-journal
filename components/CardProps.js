@@ -5,12 +5,12 @@ import Link from "next/link";
 const CardProps = (props) => {
   return (  
     <div>
-      <div className="flex justify-center font-Poppins mt-4 md:mt-2 md:w-auto">
+      <div className="flex justify-center font-Poppins mt-8 md:mt-2 md:w-auto">
         <div className="flex flex-col items-center bg-white rounded-lg md:flex-row md:max-w-xl">
           <div className="flex justify-center object-cover w-11/12 h-auto text-zero md:h-auto md:w-full">
             <Image
               width={310}
-              height={380}
+              height={420}
               src={props.img}
               alt=""
               className="rounded-2xl"
