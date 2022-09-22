@@ -20,11 +20,11 @@ export default function Home() {
 
       <nav>
         <Navbar />
-        <Input /> 
       </nav>
 
       <main>
         <Hero />
+        <Input /> 
         <Card />
       </main>
 
