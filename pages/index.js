@@ -3,6 +3,7 @@ import styles from '../styles/Home.module.css'
 import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
 import Card from '../components/Card'
+import Input from '../components/Input'
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
 
       <nav>
         <Navbar />
+        <Input /> 
       </nav>
 
       <main>
