@@ -10,14 +10,36 @@ import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 const Footer = () => {
   return (
     <div>
-        <div className="flex mx-16 mt-12 text-violet-700 md:mx-44 lg:mx-512">
-          <FontAwesomeIcon icon={faGithub} className="flex mx-auto w-6"></FontAwesomeIcon>
-          <FontAwesomeIcon icon={faTwitter} className="flex mx-auto w-6"></FontAwesomeIcon>
-          <FontAwesomeIcon icon={faLinkedin} className="flex mx-auto w-6"></FontAwesomeIcon>
-          <FontAwesomeIcon icon={faYoutube} className="flex mx-auto w-6"></FontAwesomeIcon>
+        <div className="flex justify-center mt-12 text-violet-600 md:mx-44 lg:mx-512">
+          <Link href="https://github.com/johncanero" passHref>
+            <a target="_blank" rel="noopener noreferrer"> 
+              <FontAwesomeIcon icon={faGithub} className="w-6 mx-6 md:mx-12 lg:mx-16"></FontAwesomeIcon>
+            </a>
+          </Link>
+
+          <Link href="https://twitter.com/johncaneroo" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+             <FontAwesomeIcon icon={faTwitter} className="w-6 mx-6 md:mx-12 lg:mx-16"></FontAwesomeIcon>   
+            </a>
+          </Link>
+
+          
+          <Link href="https://www.linkedin.com/in/johncanero/" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+             <FontAwesomeIcon FontAwesomeIcon icon={faLinkedin} className="w-6 mx-6 md:mx-12 lg:mx-16"></FontAwesomeIcon>
+            </a>
+          </Link>
+
+          
+          <Link href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg" passHref>
+            <a target="_blank" rel="noopener noreferrer">
+              <FontAwesomeIcon icon={faYoutube} className="w-6 mx-6 md:mx-12 lg:mx-16"></FontAwesomeIcon>
+            </a>
+          </Link>
+
         </div>
       {/* Footer */}
-      <footer className=" bg-cyanColor text-center font-Poppins font-light lg:text-left mt-6">
+      <footer className=" bg-cyanColor text-center font-Poppins font-light lg:text-left mt-8">
         <div className="text-gray-700 text-center p-4">
           © 2022 Copyright:
           <Link href="https://www.linkedin.com/in/johncanero/" passHref>
