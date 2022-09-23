@@ -6,9 +6,6 @@ const Input = () => {
   return (
     <div>
         <div>
-           
-
-                        
             <form className="flex justify-center items-center mt-4">   
                 <label for="simple-search" className="sr-only">Search</label>
                 <div class="relative w-80 md:w-9/12 lg:w-4/12">
