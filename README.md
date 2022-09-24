@@ -35,5 +35,5 @@ It is made with Next JS utilizing the React Props Component.
 
 ![Desktop View - Travel Journal](./public/images/responsive/desktopView.jpg)
 ![Tablet View - Travel Journal](./public/images/responsive/tabletView.jpg)
-![Mobile View - Travel Journal](./public/images/responsive/mobileView.jpg)
+![Mobile View - Travel Journal](./public/images/responsive/mobileView.png)
 ![Code View - Travel Journal](./public/images/responsive/codeView.jpg)
