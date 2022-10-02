@@ -24,13 +24,11 @@ const CardProps = (props) => {
                 {props.country} 
               </p>
 
-                <Link href='https://www.google.com/maps' passHref>
-                    <a target="_blank" rel="noopener noreferrer">
+                <a href='https://www.google.com/maps' target="_blank" rel="noopener noreferrer">
                       <p className=" text-gray-400 px-3 md:px-3 underline hover:underline">
                         View on Google Maps
                       </p>
-                    </a>
-                </Link>
+                 </a>
             </div>
 
             <h5 className="text-4xl font-bold text-gray-900 mt-2">
