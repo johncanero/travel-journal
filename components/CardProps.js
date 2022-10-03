@@ -36,7 +36,7 @@ const CardProps = (props) => {
             </h5>
             <div className="mt-4">
               <p className="font-bold">{props.date}</p>
-              <p className="font-normal text-gray-700 md:mt-2">
+              <p className="font-normal text-justify text-gray-700 md:mt-2">
                 {props.description}
               </p>
             </div>

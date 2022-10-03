@@ -16,7 +16,7 @@ const Card = () => {
                 country=" PHILIPPINES"
                 place="Boracay"
                 date="26 July, 2014 -  30 July, 2014"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Boracay is one of the best beaches in the world and a place to go for vacation! It is a go to destination with family and friends. A one for the books and beyond!"
             />
         </div>    
         
@@ -26,7 +26,7 @@ const Card = () => {
                 country=" SINGAPORE"
                 place="Marina Bay Sands"
                 date="26 Jan, 2015 -  30 Jan, 2015"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Marina Bay Sands, one of the finest city in the world. You are so clean and beautiful to scroll through. There is a Merlion statue which is iconic to the people!"
             />
         </div>    
 
@@ -37,7 +37,7 @@ const Card = () => {
                 country=" PHILIPPINES"
                 place="Bohol"
                 date="26 July, 2019 -  30 July, 2019"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Bohol, you are like the kisses dessert. Knowned as the Chocolate Hills. It is one of a kind place where you see many mountains sitting and relaxing. Iconic!"
             />
         </div>   
 
@@ -47,7 +47,7 @@ const Card = () => {
                 country=" HONGKONG"
                 place="HongKong Skyline"
                 date="26 July, 2019 -  30 July, 2019"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Hongkong! Finally, we meet again after a long time. I always remember the time where I did a spiderman pose on the sidewalk of the city. Till next time!"
             />
         </div>  
 
@@ -57,7 +57,7 @@ const Card = () => {
                 country=" PHILIPPINES"
                 place="Cebu Mactan"
                 date="26 July, 2019 -  30 July, 2019"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Cebu, what a beautiful place for adventure and journey. I remember the famous Cebu Puso rice you have and the wonderful city and welcoming people."
             />
         </div>    
 
@@ -67,7 +67,7 @@ const Card = () => {
                 country=" THAILAND"
                 place="Thailand Temple"
                 date="1 Jan, 2019 -  4 Jan, 2019"
-                description="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+                description="Thailand! A beautiful gem of a country. A rich historic culture. There's a floating market where you see the hardworking people of Thailand selling their goods."
             />
         </div>  
     </div>

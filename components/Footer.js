@@ -46,7 +46,7 @@ const Footer = () => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-800 font-semibold px-1"
+              className="text-gray-800 font-medium px-1"
             >
               John Cañero
             </a>
