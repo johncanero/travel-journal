@@ -47,7 +47,7 @@ const Card = () => {
                 country=" HONGKONG"
                 place="HongKong Skyline"
                 date="26 July, 2019 -  30 July, 2019"
-                description="Hongkong! Finally, we meet again after a long time. I always remember the time where I did a spiderman pose on the sidewalk of the city. Till next time!"
+                description="Hongkong! Finally, we meet again after a long time. I remember the time where I did a spiderman pose on the sidewalk of the city. Till next time!"
             />
         </div>  
 
