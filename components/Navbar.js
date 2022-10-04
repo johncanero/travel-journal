@@ -12,7 +12,7 @@ const Navbar = () => {
                 <Link href='' passHref>
                     <a target="_blank" rel="noopener neoreferrer">
                         <div>   
-                             <h1 className='flex text-white font-Poppins font-medium'><FontAwesomeIcon icon={faEarthAsia} className='w-6 mx-2'></FontAwesomeIcon><span className='text-black items-center'>my travel journal.</span></h1>
+                             <h1 className='flex text-white font-Poppins font-semibold'><FontAwesomeIcon icon={faEarthAsia} className='w-6 mx-2'></FontAwesomeIcon><span className='text-black items-center'>my travel journal.</span></h1>
                         </div>
                     </a>
                 </Link>
