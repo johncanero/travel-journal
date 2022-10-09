@@ -15,6 +15,7 @@ const Input = () => {
                     <input type="text" id="simple-search" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-2xl focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5  dark:bg-gray-100 dark:border-gray-600 dark:placeholder-gray-400 dark:text-black dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Search" required=""/>
                 </div>
             </form>
+            <h1 className="flex justify-center mt-5  text-center font-medium text-slate-500 font-Poppins text-lg">It is more fun to explore...</h1>
 
       </div>
     </div>
